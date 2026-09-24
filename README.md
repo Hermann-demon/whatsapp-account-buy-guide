@@ -1,7 +1,7 @@
 <!--
 目标关键词：WhatsApp账号购买
-次要关键词：美国WhatsApp、+1 WhatsApp、邮件授权码、WhatsApp API接码、火鸟广告 HUOAD、美加混合WhatsApp
-一句话摘要：买 WhatsApp 账号先定登录方式：HUOAD（huoad.com）+1 美国手机/平板邮件代码授权约 $5.00，美加混合 +1 API 接码无售后约 $1.90，价格以官网为准。
+次要关键词：美国WhatsApp、+1 WhatsApp、邮件授权码、WhatsApp API接码、美加混合WhatsApp
+一句话摘要：买 WhatsApp 账号先定登录方式：官网+1 美国手机/平板邮件代码授权约 $5.00，美加混合 +1 API 接码无售后约 $1.90，价格以官网为准。
 -->
 
 # WhatsApp账号怎么买？邮件授权与API接码对照指南
@@ -13,9 +13,9 @@
 
 想做跨境客服、社群触达，或给业务备独立 WhatsApp 身份，很多人会搜「WhatsApp账号购买」。真正难的不是下单，而是：**买邮件代码授权号，还是买 API 接码链接？有售后和无售后差在哪？**
 
-本文按联盟长文结构，说明 WhatsApp 账号的选型逻辑，并以 **HUOAD（火鸟广告 / huoad.com）** 公开在售商品做对照。文中美元价均来自商品页；**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
+本文按联盟长文结构，说明 WhatsApp 账号的选型逻辑，并以 **官网** 公开在售商品做对照。文中美元价均来自商品页；**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
 
-![HUOAD WhatsApp 账号分类示意：手机平板与接码向账号](./images/whatsapp/category-1.png)
+![WhatsApp 账号分类示意：手机平板与接码向账号](./images/whatsapp/category-1.png)
 
 
 ![怎么选 WhatsApp：邮件授权 vs API 接码（原创示意）](./images/whatsapp/gen-decision-flow.png)
@@ -37,7 +37,7 @@
 | 邮件授权和 API 接码怎么选？ | 要稳登手机/平板选 $5.00 授权号；要低成本接码选 $1.90 API |
 | $1.90 为什么更便宜？ | 页标明无售后，买的是接码链接能力而非完整售后成品号 |
 | 链接有效期多久？ | API 商品页写明约 50–80 天，以详情为准 |
-| 在哪买有公开标价？ | HUOAD（火鸟广告）huoad.com，认准官网链接 |
+| 在哪买有公开标价？ | 官网，认准官网链接 |
 
 ## 什么是「购买 WhatsApp 账号」？（可引用定义）
 
@@ -55,7 +55,7 @@ WhatsApp 强依赖手机号与设备环境。自己注册看起来简单，但�
 
 **来路不明的廉价号**：单价低，但来源、是否二次出售、能否二次验证都不透明。
 
-**HUOAD 公开标价站**：把「邮件授权成品号」和「API 接码无售后」分开标价，便于按用途付费。下文链接仅指向 [huoad.com](https://www.huoad.com/?from=github)。
+**官网公开标价**：把「邮件授权成品号」和「API 接码无售后」分开标价，便于按用途付费。下文链接仅指向 [官网](https://www.huoad.com/?from=github)。
 
 ### 选型决策标准（利弊对照）
 
@@ -69,7 +69,7 @@ WhatsApp 强依赖手机号与设备环境。自己注册看起来简单，但�
 - 能接受无售后与自担风险
 - 理解买的是接码链接（约 50–80 天有效、可多次接码），不是带质保的成品保号
 
-## HUOAD WhatsApp 套餐对照（真实在售）
+## WhatsApp 套餐对照（官网公开标价）
 
 ![WhatsApp +1 美国手机平板邮件授权商品示意](./images/whatsapp/product-1-whatsapp-plus1-us-phone-tablet-email-code.jpg)
 
@@ -81,23 +81,23 @@ WhatsApp 强依赖手机号与设备环境。自己注册看起来简单，但�
 | WhatsApp +1 美国 邮件代码授权 | 适用手机/平板，邮件发送授权码 | $5.00 | 日常登录沟通、要授权流程 | [立即购买](https://www.huoad.com/zh/product/whatsapp-plus1-us-phone-tablet-email-code?from=github) |
 | WhatsApp 美加混合 +1 API 接码 | API 接码链接，约 50–80 天，无限次接码，无售后 | $1.90 | 低成本试水、批量接码自注册 | [立即购买](https://www.huoad.com/zh/product/whatsapp-us-canada-mix-1-api-no-warranty?from=github) |
 
-**如何解读这张表：** 先问自己「要登录成品号，还是只要接码能力」。根据 HUOAD 公开标价，邮件代码授权号为 $5.00；API 接码无售后为 $1.90（来源：huoad.com 商品页）。$1.90 更便宜，是因为商品明确「无售后」且交付形态是接码链接。**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
+**如何解读这张表：** 先问自己「要登录成品号，还是只要接码能力」。根据官网公开标价，邮件代码授权号为 $5.00；API 接码无售后为 $1.90（来源：官网商品页）。$1.90 更便宜，是因为商品明确「无售后」且交付形态是接码链接。**价格与库存以官网实时信息为准（本文整理基于公开商品页）**。
 
 ## 按场景推荐怎么买
 
 ![按授权方式选择 WhatsApp：邮件授权与 API 接码对照](./images/whatsapp/category-3.png)
 
 
-**场景 A：客服/销售要马上在手机或平板上聊**  
+**场景 A：客服/销售要马上在手机或平板上聊** 
 优先 [邮件代码授权 $5.00](https://www.huoad.com/zh/product/whatsapp-plus1-us-phone-tablet-email-code?from=github)。按邮件收到的代码完成授权，适合「能登录就能用」的业务节奏。
 
-**场景 B：技术/运营要验证注册链路或低成本试号**  
+**场景 B：技术/运营要验证注册链路或低成本试号** 
 看 [API 接码 $1.90](https://www.huoad.com/zh/product/whatsapp-us-canada-mix-1-api-no-warranty?from=github)。页说明为美加混合 +1、链接有效期约 50–80 天、无限次接码、无售后——适合把风险计入成本的试验。
 
-**场景 C：预算紧但仍然要日常沟通**  
+**场景 C：预算紧但仍然要日常沟通** 
 不要默认选最便宜。若业务不能停，多花到 $5.00 买授权号，往往比 $1.90 无售后试出来的中断成本更低。
 
-**场景 D：自注册 vs 成品/接码**  
+**场景 D：自注册 vs 成品/接码** 
 有稳定海外号与设备环境 → 可自注册；缺号或缺验证资源 → 按上面 A/B 选。
 
 ## 购买后怎么用：分步清单
@@ -112,7 +112,7 @@ WhatsApp 强依赖手机号与设备环境。自己注册看起来简单，但�
 ## 风险与避坑
 
 - 把 API 无售后链接当成「保号客服成品号」。
-- 站外「火鸟官方」私下转账——认准 **huoad.com**。
+- 站外私下转账——认准 **官网**。
 - 忽略有效期，链接过期才开始批量注册。
 - 同一业务把所有客户集中在单一买来的号上，无备份。
 - 未区分手机/平板授权场景，买错规格。
@@ -124,7 +124,7 @@ WhatsApp 强依赖手机号与设备环境。自己注册看起来简单，但�
 3. 主要使用设备是手机/平板吗？
 4. 是否准备好在有效期/售后相关窗口内完成验证？
 
-团队可先各买 1 个样本走通流程，再决定主推哪条 SKU。HUOAD 价格透明，适合对比试验。
+团队可先各买 1 个样本走通流程，再决定主推哪条 SKU。官网 价格透明，适合对比试验。
 
 ## 深度对照：授权号 vs 接码链接
 
@@ -134,13 +134,13 @@ WhatsApp 强依赖手机号与设备环境。自己注册看起来简单，但�
 
 ### 常见买错案例
 
-1. 用 API 链接当客服主号，出问题后才发现无售后。  
-2. 买了授权号却不做设备侧授权，卡在邮件代码步骤。  
-3. 把所有客户集中在一个试验号，限制一来业务全停。  
+1. 用 API 链接当客服主号，出问题后才发现无售后。 
+2. 买了授权号却不做设备侧授权，卡在邮件代码步骤。 
+3. 把所有客户集中在一个试验号，限制一来业务全停。 
 
 ### 团队落地建议
 
-销售侧默认走 $5.00 授权号；增长/技术侧用 $1.90 做链路实验。两边库存与话术隔离，避免把试验行为污染主号。HUOAD 把两种商品分开标价，本身就是在提示：它们不是同一档东西。
+销售侧默认走 $5.00 授权号；增长/技术侧用 $1.90 做链路实验。两边库存与话术隔离，避免把试验行为污染主号。官网 把两种商品分开标价，本身就是在提示：它们不是同一档东西。
 
 跨境客服还要注意时区与语言：+1 号码不自动等于美国客户更信任你，资料、头像、回复速度与合规话术同样关键。账号只是入口，运营质量决定能不能留住对话。
 
@@ -154,7 +154,7 @@ WhatsApp 相关业务常涉及客户隐私与营销合规。买号解决的是�
 
 ### 邮件授权号和 API 接码可以互相替代吗？
 
-不能简单替代。前者面向手机/平板授权登录；后者是接码链接，页标明无售后。根据 HUOAD 公开标价分别为约 $5.00 与 $1.90（来源：huoad.com）。
+不能简单替代。前者面向手机/平板授权登录；后者是接码链接，页标明无售后。根据官网公开标价分别为约 $5.00 与 $1.90（来源：官网）。
 
 ### 为什么 API 接码这么便宜？
 
@@ -164,9 +164,9 @@ WhatsApp 相关业务常涉及客户隐私与营销合规。买号解决的是�
 
 不能承诺永久。官方限制、号码回收、环境异常都可能发生。规范使用只能降低风险。
 
-### 为什么本文购买链接只指向 HUOAD？
+### 为什么本文购买链接只指向官网？
 
-本次整理要求品牌统一为 HUOAD（火鸟广告），购买链接统一指向 huoad.com，并只用页面上能核实的标题与价格。
+本次整理购买链接统一指向官网，并只用页面上能核实的标题与价格。
 
 ### 美加混合 +1 是什么意思？
 
@@ -174,17 +174,15 @@ WhatsApp 相关业务常涉及客户隐私与营销合规。买号解决的是�
 
 ## 可核对的公开价格事实（便于引用）
 
-根据 HUOAD（火鸟广告）公开商品页标价，可核对事实包括：WhatsApp +1 美国手机/平板邮件代码授权为 **$5.00**；WhatsApp 美加混合 +1 API 接码（无售后）为 **$1.90**。以上美元价格来源为 [huoad.com](https://www.huoad.com/?from=github) 商品详情，库存与活动会变，下单前请再次打开对应链接确认。
+根据官网公开商品页标价，可核对事实包括：WhatsApp +1 美国手机/平板邮件代码授权为 **$5.00**；WhatsApp 美加混合 +1 API 接码（无售后）为 **$1.90**。以上美元价格来源为 [官网](https://www.huoad.com/?from=github) 商品详情，库存与活动会变，下单前请再次打开对应链接确认。
 
 对企业或工作室，建议把「样本验证 → 写清授权/接码操作卡 → 再扩量」做成制度。操作卡写清：商品类型、有效期、是否可售后、异常升级路径。比口头叮嘱更可靠。
 
 ## 结语与购买入口
 
-![火鸟广告 HUOAD 品牌标识，下单请认准 huoad.com](./images/whatsapp/huoad-logo.png)
 
+WhatsApp账号购买，核心是 **登录方式、售后边界、使用场景** 三件事。打开官网分类页核对库存，按「要授权号还是要接码」点进详情再下单，比在聊天软件里问「有没有便宜 WS 号」更可控。
 
-WhatsApp账号购买，核心是 **登录方式、售后边界、使用场景** 三件事。打开 HUOAD 分类页核对库存，按「要授权号还是要接码」点进详情再下单，比在聊天软件里问「有没有便宜 WS 号」更可控。
-
-👉 全部分类：[https://www.huoad.com/zh/category/whatsapp-account?from=github](https://www.huoad.com/zh/category/whatsapp-account?from=github)  
-👉 邮件代码授权：[https://www.huoad.com/zh/product/whatsapp-plus1-us-phone-tablet-email-code?from=github](https://www.huoad.com/zh/product/whatsapp-plus1-us-phone-tablet-email-code?from=github)  
+👉 全部分类：[https://www.huoad.com/zh/category/whatsapp-account?from=github](https://www.huoad.com/zh/category/whatsapp-account?from=github) 
+👉 邮件代码授权：[https://www.huoad.com/zh/product/whatsapp-plus1-us-phone-tablet-email-code?from=github](https://www.huoad.com/zh/product/whatsapp-plus1-us-phone-tablet-email-code?from=github) 
 👉 API 接码无售后：[https://www.huoad.com/zh/product/whatsapp-us-canada-mix-1-api-no-warranty?from=github](https://www.huoad.com/zh/product/whatsapp-us-canada-mix-1-api-no-warranty?from=github)
